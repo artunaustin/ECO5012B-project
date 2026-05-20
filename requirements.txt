@@ -3,3 +3,7 @@ pandas
 numpy
 plotly
 statsmodels
+pandas_datareader
+matplotlib
+seaborn
+plotly.express
